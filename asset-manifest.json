@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/KanbanProject/static/css/main.a8e57500.css",
+    "main.js": "/KanbanProject/static/js/main.150e8122.js",
+    "static/js/787.f3491299.chunk.js": "/KanbanProject/static/js/787.f3491299.chunk.js",
+    "static/media/screenshot.jpeg": "/KanbanProject/static/media/screenshot.906873ff599fe125b61c.jpeg",
+    "static/media/comment2.png": "/KanbanProject/static/media/comment2.fda45f0a8c96900dd011.png",
+    "static/media/comments14.png": "/KanbanProject/static/media/comments14.78f265f5bc6c284fc4c7.png",
+    "static/media/comments15.png": "/KanbanProject/static/media/comments15.9c0d4d4bb07f3b3dd0db.png",
+    "static/media/comment9.png": "/KanbanProject/static/media/comment9.ed64135a53b62844b47e.png",
+    "static/media/anima.png": "/KanbanProject/static/media/anima.3cccea24c3315d5cbcc8.png",
+    "static/media/flower.jpeg": "/KanbanProject/static/media/flower.8be1a552ebe517b9a5fc.jpeg",
+    "static/media/dog.jpeg": "/KanbanProject/static/media/dog.b840103ff999070f0b3e.jpeg",
+    "static/media/comments.png": "/KanbanProject/static/media/comments.580a2c063160b6b67d10.png",
+    "index.html": "/KanbanProject/index.html",
+    "main.a8e57500.css.map": "/KanbanProject/static/css/main.a8e57500.css.map",
+    "main.150e8122.js.map": "/KanbanProject/static/js/main.150e8122.js.map",
+    "787.f3491299.chunk.js.map": "/KanbanProject/static/js/787.f3491299.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e57500.css",
+    "static/js/main.150e8122.js"
+  ]
+}
